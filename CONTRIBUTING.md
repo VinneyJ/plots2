@@ -1,7 +1,7 @@
 Contributing to PLOTS2
 ==========================
 
-We welcome community contributions to PLOTS2! To install PLOTS2 locally, follow the instructions in the [README.md file](https://github.com/publiclab/plots2#installation).
+`We welcome community contributions to PLOTS2!` To install PLOTS2 locally, follow the instructions in the [README.md file](https://github.com/publiclab/plots2#installation).
 
 We especially welcome contributions from people from groups underrepresented in free and open source software!
 
